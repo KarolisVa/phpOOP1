@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "TODO",
+    "description": "Something manager app",
+    "psr-4": {
+      "OOP\\": "app"
+    }
+  }
+}
